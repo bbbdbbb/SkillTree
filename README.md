@@ -8,13 +8,7 @@ My way of learning IT
 io=>inputoutput: 基础——平行四边形
 op=>operation: Java——正方形
 sub=>subroutine: 其他——加宽长方形
-```flow
-st=>start: 杂七杂八
-git=>subroutine: Git的使用及Github
-e=>end: 未完待续
-
-st->git->e
-```
+![avatar](https://raw.githubusercontent.com/bbbdbbb/SkillTree/master/img/st20190628.jpg)
 
 ---
 [TOC]
