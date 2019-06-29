@@ -1,6 +1,6 @@
 ﻿# SkillTree
-
 My way of learning IT
+
 ##大学前两年
 &nbsp;&nbsp;我是一名在校大学生，2019年6月结束了我的大二生活，马上就大三了，感觉时间过的好快，自己学了很多杂七杂八的东西，但是也没有真正学到什么，感觉时间都浪费了。所以现在想弄一个技能树，记录我的学习过程，也为其他小伙伴提供经验。
 &nbsp;&nbsp;我大学前两年学了c,java,c#,汇编，安卓，ASP---计算机组成原理，数据结构，计算机网络---UML,XML,数据库---微信小程序，Jquery，bootstrap，JavaScript，CSS，Html。
