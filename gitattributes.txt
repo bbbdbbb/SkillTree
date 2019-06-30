@@ -1,0 +1,2 @@
+# 设置*.txt的eol为具体格式
+*.md text eol=lf
