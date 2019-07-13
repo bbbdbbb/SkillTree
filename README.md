@@ -8,7 +8,7 @@ My way of learning IT
 io=>inputoutput: 基础——平行四边形<br/>
 op=>operation: Java——正方形<br/>
 sub=>subroutine: 其他——加宽长方形<br/>
-![avatar](https://raw.githubusercontent.com/bbbdbbb/SkillTree/master/img/st20190628.jpg)
+![avatar](https://raw.githubusercontent.com/bbbdbbb/SkillTree/master/img/st20190713.jpg)
 
 ---
    * [SkillTree]()
