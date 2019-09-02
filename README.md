@@ -8,7 +8,7 @@ My way of learning IT
 io=>inputoutput: 基础——平行四边形<br/>
 op=>operation: Java——正方形<br/>
 sub=>subroutine: 其他——加宽长方形<br/>
-![avatar](https://github.com/bbbdbbb/SkillTree/blob/master/img/st20190805_javajc.jpg)
+![avatar](https://github.com/bbbdbbb/SkillTree/blob/master/img/st20190902_hexoBlog.jpg)
 
 ---
    * [SkillTree]()
@@ -16,11 +16,13 @@ sub=>subroutine: 其他——加宽长方形<br/>
       * [Git的使用及Gighub——20190626]()
       * [计算机网络——20190710]()
       * [Java基础——20190805]()
+      * [Hexo+Github搭建个人博客——20190824]()
 
  - 大学前两年
  - Git的使用及Gighub——20190626
  - 计算机网络——20190710
  - Java基础——20190805
+ - Hexo+Github搭建个人博客——20190824
     
  
 
@@ -45,3 +47,9 @@ sub=>subroutine: 其他——加宽长方形<br/>
 &nbsp;&nbsp;现在想想，我学Java算是学了满满一年了，都没有学到什么。因为中间去学了微信小程序，安卓，单片机等其他知识，导致我捡了玉米丢了咖啡豆，这也让我明白了无论学什么都要坚持，要持续学习，不能三心二意，不然到头竹篮打水一场空，什么也没有学懂。乘着暑假，从7月11号开始复习Java基础，到今天8月5号基本复习完了，跳过了多线程等后面的知识点，接下来要开始学spring了。<br/>
 1.《Java核心技术 卷Ⅰ》——我看了前九章，从面对对象到集合。看完的感受是这本书真的适合入门，关于面对对象的知识点非常简单清晰，小白很容易就明白其含义；而且书中有很多实例代码，引导读者动手操作；书中适当的延申也可以提高读者的能力。不过也有一些地方让我摸不着头脑（太难了，尤其是泛型讲类型擦除那里），我觉得跳过就好，等以后遇到再看。
 
+## Hexo+Github搭建个人博客
+&nbsp;&nbsp;一直想写blog，终于下定决心利用GitHub搭建一个个人blog，费时6天，只弄出来了一些基本的东西。因为第三天删除了错误的文件，导致blog不能正常显示，理论上可以从GitHub上clone以前的版本，可是我不会，所以就在第四天又重新开始搭建blog。下面是我搭建博客时参照的网站，很有用。
+1.https://zhuanlan.zhihu.com/p/60578464 知乎上的免费教程，适合小白学习如何安装Hexo和部署Hexo到Github Pages；
+2.https://yangbingdong.com/2017/build-blog-hexo-advanced/ 在部署好后可以根据这个博主的文章都自己的blog进行装饰。虽然这个博主也有一篇文章介绍了Hexo的一些基本搭建，但是我不推荐按照他的方式安装部署，因为我失败了，555；
+3.http://theme-next.iissnan.com/getting-started.html 这是NexT的官方文档，在这里面能找到找到侧栏、头像、打赏、评论等基本样式的设置，强烈推荐；
+4.http://wp.huangshiyang.com/hexo%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88 这个网址是关于部署安装Hexo时会遇到的问题和解决办法，如果你遇到了错误，可以去上面找找。
