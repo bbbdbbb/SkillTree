@@ -8,7 +8,7 @@ My way of learning IT
 io=>inputoutput: 基础——平行四边形<br/>
 op=>operation: Java——正方形<br/>
 sub=>subroutine: 其他——加宽长方形<br/>
-![avatar](https://github.com/bbbdbbb/SkillTree/blob/master/img/st20190902_hexoBlog.jpg)
+![avatar](https://github.com/bbbdbbb/SkillTree/blob/master/img/st20191004_add_CET4.jpg)
 
 ---
    * [SkillTree]()
@@ -17,12 +17,14 @@ sub=>subroutine: 其他——加宽长方形<br/>
       * [计算机网络——20190710]()
       * [Java基础——20190805]()
       * [Hexo+Github搭建个人博客——20190824]()
+      * [ETC四级单词——20191004]()
 
  - 大学前两年
  - Git的使用及Gighub——20190626
  - 计算机网络——20190710
  - Java基础——20190805
  - Hexo+Github搭建个人博客——20190824
+ - ETC四级单词——20191004
     
  
 
@@ -53,3 +55,7 @@ sub=>subroutine: 其他——加宽长方形<br/>
 2.https://yangbingdong.com/2017/build-blog-hexo-advanced/ 在部署好后可以根据这个博主的文章都自己的blog进行装饰。虽然这个博主也有一篇文章介绍了Hexo的一些基本搭建，但是我不推荐按照他的方式安装部署，因为我失败了，555；<br/>
 3.http://theme-next.iissnan.com/getting-started.html 这是NexT的官方文档，在这里面能找到找到侧栏、头像、打赏、评论等基本样式的设置，强烈推荐；
 4.http://wp.huangshiyang.com/hexo%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88 这个网址是关于部署安装Hexo时会遇到的问题和解决办法，如果你遇到了错误，可以去上面找找。<br/>
+
+## ETC四级单词
+&nbsp;&nbsp;虽然我的四级英语今年6月的考试后已经过了，但是我知道其中有很多运气成分，所以我决定要把四级的基础给补上，再去准备英语六级的考试，经过这学期第一个月加上暑假的艰苦奋斗（每天记50个单词），终于把没有背完四级单词给背了。虽然感觉付出与收获不成正比，但是英语水平也有了一点提升，还是比较高兴。<br/>
+1.百词斩APP--一款中规中矩的记单词软件吧，记单词一定要坚持，还有就是不断复习，加油！！！
