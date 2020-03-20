@@ -12,18 +12,19 @@ sub=>subroutine: 其他——加宽长方形<br/>
 
 ---
 
+ * [SkillTree]()
       * [大学前两年]()
-      * [Git的使用及Github——20190626](git-github-20190626)
+      * [Git的使用及Github——20190626](#git-github-20190626)
       * [计算机网络——20190710]()
       * [Java基础——20190805]()
       * [Hexo+Github搭建个人博客——20190824]()
       * [ETC四级单词——20191004](ETC四级单词-20191004)
       * [ETC六级455分——20200221](ETC六级455分20200221) 
       
-[Git的使用及Github——20190626](git-github-20190626)
+[Git的使用及Github——20190626](#git-github-20190626)[Git的使用及Github——20190626](##git-github-20190626)
 
  - 大学前两年
- - [Git的使用及Github——20190626](git-github-20190626)
+ - [Git的使用及Github——20190626](#git-github-20190626)
  - 计算机网络——20190710
  - Java基础——20190805
  - Hexo+Github搭建个人博客——20190824
