@@ -28,7 +28,7 @@ sub=>subroutine: 其他——加宽长方形<br/>
  - ETC四级单词——20191004
     
  [What is LaTeX?](#what-is-latex)
- [that is LaTeX?](#what-is-latex)
+ [that is LaTeX?](#that-is-latex)
  
 
 ## Git的使用及Gighub——20190626
