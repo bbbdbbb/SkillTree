@@ -13,7 +13,7 @@ sub=>subroutine: 其他——加宽长方形<br/>
 ---
    * [SkillTree]()
       * [大学前两年]()
-      * [Git的使用及Gighub——20190626](git-Gighub-20190626)
+      * [Git的使用及Github——20190626](git-github-20190626)
       * [计算机网络——20190710]()
       * [Java基础——20190805]()
       * [Hexo+Github搭建个人博客——20190824]()
@@ -31,7 +31,7 @@ sub=>subroutine: 其他——加宽长方形<br/>
  [that is LaTeX?](#that-is-latex)
  
 
-## Git的使用及Gighub——20190626
+## Git的使用及Github——20190626
  1. https://learngitbranching.js.org  在这里我通过玩游戏的方式初步感受了git
  2. https://www.liaoxuefeng.com/wiki/896043488029600 廖雪峰老师的git教程
 
